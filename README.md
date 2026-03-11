@@ -59,11 +59,11 @@ Teniendo en cuenta el material de clase, responda las siguientes preguntas:
 ### Actividad 3
 Ordene las siguientes etapas según corresponda  Diseño
 -al modelo lineal secuencial:
-- Codificación
-- Prueba
-- Diseño
-- Despliegue
 - Ingeniería de requerimientos
+- Diseño
+- Codificación 
+- Prueba
+- Despliegue
 ---
 R:
 
